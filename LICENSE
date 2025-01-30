@@ -629,8 +629,20 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    <one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) <year>  <name of author>
+  The main goal of this project is to provide a local web server software
+solution to automate the extraction and exportation of data information from
+any short digital documents.
+
+  The documents can be receipts, invoices, contact cards, memos,
+prescriptions, and other kinds.
+
+  The solution uses OCR software to transform the documents into text data, 
+artificial intelligence to recognize and extract data from the text.
+
+  The software is accessible in a local browser or on other devices, such as
+smartphones and tablets.
+
+    Copyright (C) 2025-present  Mario Madureira Fontes
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published
